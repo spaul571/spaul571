@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Shrikanta Paul 👋</h1>
 
 <p align="center">
-  CS student · AI/ML enthusiast · IoT builder · Full-stack developer
+  MSc CSE student · Data Science · ML · DL · NLP · LLM · IoT
 </p>
 
 ---
 
 ### About Me
 
-- Building **SmartFarmX** — IoT smart farming system (Flutter app + Arduino + Web dashboard)
-- Working on **AI/ML**: YOLOv11 leaf disease detection, NLP
-- Background in web (HTML/CSS/JS/TS/PHP), mobile (Flutter), and competitive programming
-- Currently studying at **DIU**
+- **MSc in CSE**, major in **Data Science** at DIU
+- Working with **ML, DL, NLP, LLMs** — from classical models to modern large language models
+- Built **SmartFarmX** — IoT smart farming system (Flutter app + Arduino + Web dashboard)
+- Background in mobile (Flutter), web, and competitive programming
 
 ---
 
@@ -42,7 +42,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [SmartFarmX](https://github.com/shrikantapaul571/SmartFarmX-Arduino-Code) | IoT smart farming — sensor data, alerts, automation | Flutter · Arduino · C++ · JS |
-| [YOLOv11 Leaf Disease UI](https://github.com/shrikantapaul571/YOLOv11-Leaf-Disease-UI) | Real-time plant disease detection with YOLOv11 | Python · HTML |
+| [YOLOv11 Leaf Disease UI](https://github.com/shrikantapaul571/YOLOv11-Leaf-Disease-UI) | Plant disease detection using deep learning (YOLOv11) | Python · HTML |
 | [BookBin](https://github.com/shrikantapaul571/BookBin) | Book management web app | CSS · HTML |
 | [NLP CSE-445](https://github.com/shrikantapaul571/NLP_CSE-445) | NLP coursework and experiments | Python · Jupyter |
 | [Beecrowd Solutions](https://github.com/shrikantapaul571/Beecrowd-URI-Online-Judge-Solutions-in-C) | Competitive programming solutions | C |
