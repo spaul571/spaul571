@@ -53,12 +53,10 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrikantapaul571&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrikantapaul571&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shrikantapaul571&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrikantapaul571&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
 </p>
 
----
-
 <p align="center">
-  <a href="mailto:shrikantapaul221@gmail.com">shrikantapaul221@gmail.com</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrikantapaul571&theme=tokyonight&hide_border=true" height="150"/>
 </p>
