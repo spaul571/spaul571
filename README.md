@@ -41,22 +41,22 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [SmartFarmX](https://github.com/shrikantapaul571/SmartFarmX-Arduino-Code) | IoT smart farming — sensor data, alerts, automation | Flutter · Arduino · C++ · JS |
-| [YOLOv11 Leaf Disease UI](https://github.com/shrikantapaul571/YOLOv11-Leaf-Disease-UI) | Plant disease detection using deep learning (YOLOv11) | Python · HTML |
-| [BookBin](https://github.com/shrikantapaul571/BookBin) | Book management web app | CSS · HTML |
-| [NLP CSE-445](https://github.com/shrikantapaul571/NLP_CSE-445) | NLP coursework and experiments | Python · Jupyter |
-| [Beecrowd Solutions](https://github.com/shrikantapaul571/Beecrowd-URI-Online-Judge-Solutions-in-C) | Competitive programming solutions | C |
-| [Portfolio](https://github.com/shrikantapaul571/portfolio) | Personal portfolio site | HTML · CSS |
+| [SmartFarmX](https://github.com/spaul571/SmartFarmX-Arduino-Code) | IoT smart farming — sensor data, alerts, automation | Flutter · Arduino · C++ · JS |
+| [YOLOv11 Leaf Disease UI](https://github.com/spaul571/YOLOv11-Leaf-Disease-UI) | Plant disease detection using deep learning (YOLOv11) | Python · HTML |
+| [BookBin](https://github.com/spaul571/BookBin) | Book management web app | CSS · HTML |
+| [NLP CSE-445](https://github.com/spaul571/NLP_CSE-445) | NLP coursework and experiments | Python · Jupyter |
+| [Beecrowd Solutions](https://github.com/spaul571/Beecrowd-URI-Online-Judge-Solutions-in-C) | Competitive programming solutions | C |
+| [Portfolio](https://github.com/spaul571/portfolio) | Personal portfolio site | HTML · CSS |
 
 ---
 
 ### GitHub Stats
 
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrikantapaul571&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrikantapaul571&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=spaul571&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaul571&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrikantapaul571&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spaul571&theme=tokyonight&hide_border=true" height="150"/>
 </p>
